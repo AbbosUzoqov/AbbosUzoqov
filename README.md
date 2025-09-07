@@ -15,12 +15,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
 
----
-
-## 📊 GitHub Stats  
-
-![Abbos's GitHub stats](https://github-readme-stats.vercel.app/api?username=UzoqovAbbos&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UzoqovAbbos&layout=compact&theme=tokyonight)  
 
 ---
 
